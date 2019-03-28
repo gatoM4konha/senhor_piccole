@@ -2,5 +2,5 @@
 primeira alteração 
  amoeba 
  <?php 
- echo porra "porra prof"
+ echo  "porra prof"
  ?>
